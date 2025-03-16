@@ -4,6 +4,7 @@ title: Plano de Estudos - Teste ANPAD
 Data execução da prova 23/11/2025
 
 <iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/BAycB6svxH8Ze5ahDGyZcB"></iframe>
+
 ### **Plano de Estudos Estruturado (36 Semanas)**
 
 #### **Fases do Estudo**
@@ -11,7 +12,6 @@ Data execução da prova 23/11/2025
 - **Fase 1 - Fundamentos (Semanas 1-12):** Revisão das bases teóricas de cada área.
 - **Fase 2 - Aplicação e Prática (Semanas 13-24):** Resolução de exercícios e simulações parciais.
 - **Fase 3 - Simulados e Revisões (Semanas 25-36):** Simulados completos e reforço de pontos fracos.
-
 
 ### **Plano de Estudos Semana a Semana**
 
