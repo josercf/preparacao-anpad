@@ -7,7 +7,6 @@ Foco na identificação de ideias principais, temas, e compreensão de informaç
 
 **[[#Semana 2]]**
 Foco na avaliação da organização do texto, identificação da atitude do autor, e reconhecimento de recursos argumentativos.
-
 # Material de Leitura e Referências
 
 **Livros da Bibliografia Sugerida**
@@ -33,6 +32,12 @@ Interpretação de textos - focado em textos jornalísticos, técnicos e acadêm
 Foco na identificação de ideias principais, temas, e compreensão de informações explícitas e implícitas.
 
 #### Sessão 1 (2 horas)
+
+##### **Simulado - Prova Língua Portuguesa**
+
+Acesse o [simulado](https://forms.office.com/r/15RCj634E7) preparado e responda as questões. Não se preocupe com os acertos ou conteúdo neste momento. A ideia aqui é termos material para realizar um benchmark posterior.
+
+Eu estou usando o one note para realizar as anotações. O meu caderno de estudos está disponível [aqui]([Preparação - Teste ANPAD](onenote:https://d.docs.live.net/a811325af1610333/Documentos/PPGA%20-%20Doutorado/Preparação%20-%20Teste%20ANPAD.one#section-id={2F5616B6-DB6E-45FB-8F79-2F4D552B166E}&end)  (https://onedrive.live.com/view.aspx?resid=A811325AF1610333%21sca06361160f3464d8013814c5ba45799&id=documents&wd=target%28Prepara%C3%A7%C3%A3o%20-%20Teste%20ANPAD.one%7C2F5616B6-DB6E-45FB-8F79-2F4D552B166E%2F%29)). Você pode acessa-lo com uma conta Microsoft. 
 
 ##### **Leitura Teórica (60 minutos)**
 
